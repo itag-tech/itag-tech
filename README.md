@@ -1,13 +1,5 @@
-Hello FR 👀,
+Hello 👀,
 
-Ce repository centralise les projets de la société ITAG-TECHNOLOGY, représentée par Thomas AGUIRREGABIRIA.
-
-📫 hello@itag-technology.com
-
-----------------------------------------
-
-Hello UK 👀,
-
-This repository centralizes ITAG-TECHNOLOGY projects, represented by Thomas AGUIRREGABIRIA.
+Ce repository a pour but de centraliser les futurs projets de la société ITAG-TECHNOLOGY, représentée par Thomas AGUIRREGABIRIA.
 
 📫 hello@itag-technology.com
