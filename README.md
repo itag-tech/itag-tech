@@ -1,5 +1,5 @@
 Hello 👀,
 
-Ce repository a pour but de centraliser les futurs projets de la société ITAG-TECHNOLOGY, représentée par Thomas AGUIRREGABIRIA.
+This repository is used to centralize ITAG-TECHNOLOGY projects, represented by Thomas AGUIRREGABIRIA.
 
 📫 hello@itag-technology.com
