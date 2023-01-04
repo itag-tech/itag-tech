@@ -1,8 +1,8 @@
 Hello 👀,
 
-Welcome to my new repository. 
+Welcome to my new repository.
 
-I preferred to start over because my projects when I was learning web development are not presentable and especially useless today. Here you will find creations that I enjoy presenting.
+Here you will find creations that I enjoy presenting.
 
 📫 hello@itag-technology.com
 
