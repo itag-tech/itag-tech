@@ -21,7 +21,7 @@ Here you will find creations that I enjoy presenting.
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-111?&logo=TailwindCSS)
 ![Git](https://img.shields.io/badge/-Git-111?&logo=git)
 
-### Other tech i've used
+### Other tech that I use
 ![NodeJS](https://img.shields.io/badge/-NodeJS-111?&logo=Node.js)
 ![Java](https://img.shields.io/badge/-Java-111?&logo=java)
 ![Less](https://img.shields.io/badge/-Less-111?&logo=less)
