@@ -25,5 +25,8 @@ Here you will find creations that I enjoy presenting.
 ![NodeJS](https://img.shields.io/badge/-NodeJS-111?&logo=Node.js)
 ![Java](https://img.shields.io/badge/-Java-111?&logo=java)
 ![Less](https://img.shields.io/badge/-Less-111?&logo=less)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111?&logo=PostgreSQL)
+![Firebase](https://img.shields.io/badge/-Firebase-111?&logo=Firebase)
 ![MySQL](https://img.shields.io/badge/-MySQL-111?&logo=MySQL)
 ![AntDesign](https://img.shields.io/badge/-AntDesign-111?&logo=AntDesign)
+![Swagger](https://img.shields.io/badge/-Swagger-111?&logo=Swagger)
